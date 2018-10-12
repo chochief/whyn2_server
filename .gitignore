@@ -1,0 +1,9 @@
+# .gitignore
+.erlang.mk
+deps
+ebin/*.beam
+ebin/test
+# rel
+_rel
+erlang.mk
+whyn.d
